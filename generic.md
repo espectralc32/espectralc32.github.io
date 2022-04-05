@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Generic
-description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+title: Página Genérica
+description: Descripción de la página Genérica
 ---
 
 ### Lorem ipsum dolor
